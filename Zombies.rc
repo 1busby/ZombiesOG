@@ -1,0 +1,26 @@
+#include "Resource.h"
+
+IDI_ZOMBIES          ICON   "Res\\Zombies.ico"
+IDI_ZOMBIES_SM       ICON   "Res\\Zombies_sm.ico"
+
+IDB_BACKGROUND       BITMAP "Res\\Background.bmp"
+IDB_PLAYER           BITMAP "Res\\Player.bmp"
+IDB_BULLET           BITMAP "Res\\Bullet.bmp"
+IDB_ZOMBIE           BITMAP "Res\\Zombie.bmp"
+IDB_ZOMBIETWO        BITMAP "Res\\Zombie2.bmp"
+IDB_ZOMBIETHREE      BITMAP "Res\\Zombie3.bmp"
+
+IDW_FIRE             WAVE   "Res\\Fire.wav"
+IDW_HIT              WAVE   "Res\\Hit.wav"
+IDW_DEATH            WAVE   "Res\\Death.wav"
+IDW_DEMONSPAWN       WAVE   "Res\\DemonSpawn.wav"
+IDW_OPENING          WAVE   "Res\\Opening.wav"
+IDW_ZOMBIEATTACK     WAVE   "Res\\ZombieAttack.wav"
+IDW_ZOMBIEBACK       WAVE   "Res\\ZombieBack.wav"
+IDW_ZOMBIEBRAINS     WAVE   "Res\\ZombieBrains.wav"
+IDW_ZOMBIEMOAN       WAVE   "Res\\ZombieMoan.wav"
+IDW_ZOMBIEPAIN       WAVE   "Res\\ZombiePain.wav"
+IDW_RELOAD           WAVE   "Res\\Reload.wav"
+
+IDM_PAIN             MP3   "Pain.mp3"
+
